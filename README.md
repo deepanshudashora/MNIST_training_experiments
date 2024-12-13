@@ -217,6 +217,14 @@ Model Comparision
 
     Adjusting learning rate of group 0 to 9.0000e-04.
 
+
+### Training on AWS (t2.xlarge)
+
+<p align="center">
+    <img src="images/aws.png" alt="centered image" />
+</p>
+
+
 # Results
 
 ## Accuracy Plot
